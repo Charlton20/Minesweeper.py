@@ -1,8 +1,6 @@
 # Minesweeper.py
 This Python code creates a Minesweeper game for the terminal. Players input row and column choices to reveal cells. The game ends if a mine is hit or all safe cells are uncovered. The grid updates dynamically, showing revealed cells and mine counts.
 
-Certainly! Here's a concise README file for the Minesweeper game:
-
 ---
 
 # Minesweeper Game
@@ -35,7 +33,3 @@ python minesweeper.py
 - Enjoy the classic Minesweeper challenge in the terminal!
 
 Feel free to contribute or modify the code to enhance the game.
-
----
-
-This README provides a brief overview, instructions for playing, information about files, and usage details for running the script. Adjust it as needed for your specific project structure or additional features.
